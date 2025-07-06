@@ -1,0 +1,11 @@
+Flask==2.3.2
+flask-cors==4.0.0
+requests
+arxiv
+sentence-transformers
+rank_bm25
+faiss-cpu
+transformers
+pandas
+scikit-learn
+beautifulsoup4
